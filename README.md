@@ -1,0 +1,2 @@
+# Latihangit
+git dasar
